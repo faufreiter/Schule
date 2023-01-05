@@ -1,0 +1,2 @@
+# Schule
+Vereinfachung der Benotung
